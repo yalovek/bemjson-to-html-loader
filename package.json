@@ -1,0 +1,16 @@
+{
+  "name": "bemjson-to-bemhtml-loader",
+  "version": "1.0.0",
+  "description": "Bemjson to bemhtml loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vadim Yalovenko <yalovek@ya.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "bem-xjst": "^6.6.0",
+    "bemdecl-to-bemhtml": "^1.0.0",
+    "bemjson-to-decl": "^1.0.0"
+  }
+}
